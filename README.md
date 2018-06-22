@@ -1,6 +1,6 @@
-#Binary Search Tree
+# Drawing Binary Tree (p5.js)
 
-###시작
+### 시작
 
 https://www.youtube.com/watch?v=GcDshWmhF4A
 
